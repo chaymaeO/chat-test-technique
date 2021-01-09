@@ -1,0 +1,20 @@
+{
+    "name": "chaymae/tchat",
+    "description": "test technique weshore",
+    "authors": [
+        {
+            "name": "chaymae ouahdane",
+            "email": "chaymae.ouahdane@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^5.6",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
